@@ -13,7 +13,7 @@ Por fim, mergulhando no mundo da AI Generativa. Aprendendo a criar e otimizar co
 <img align="center" width="200px" src="img/logo-bootcamp-IA.webp">
 </div>
 
-### Fundamentos de Inteligência Artificial(IA) e GitHub Copilit
+### Fundamentos de Inteligência Artificial(IA) e GitHub Copilot
 
 - [Introdução](Fundamentos-IA/introducao-IA.md)
 
@@ -31,6 +31,28 @@ Por fim, mergulhando no mundo da AI Generativa. Aprendendo a criar e otimizar co
 
 - [GitHub Copilot](Fundamentos-IA/github-copilot.md)
 
+### Pilares Teóricos Que Sustentam as IAs Generativa
+
+- [Fundamentos das IAs Generativas](Pilares-teoricos/Fundamentos.md)
+
+- [Algorítmos e Aprendizado de Máquina](Pilares-teoricos/aprendizado-maquina.md)
+
+- [Processamento de Linguagem Natural](Pilares-teoricos/linguagem-Natural.md)
+
+- [Visão Computacional](Pilares-teoricos/visao-computacional.md)
+
+
+### Aplicações Práticas das IAs Generativas
+
+- [A Revolução das IAs Generativas](Aplicacoes-IA/revolucao-IA.md)
+
+- [Geração de Imagens](Aplicacoes-IA/geracao-imagens.md)
+
+- [IAs na Indústria](Aplicacoes-IA/IA-industria.md)
+
+- [IAs na Agricultura](Aplicacoes-IA/IA-agricultura.md)
+
+- [IAs na Programação](Aplicacoes-IA/IA-programacao.md)
 
 
 
