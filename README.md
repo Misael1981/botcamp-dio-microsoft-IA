@@ -54,6 +54,18 @@ Por fim, mergulhando no mundo da AI Generativa. Aprendendo a criar e otimizar co
 
 - [IAs na Programação](Aplicacoes-IA/IA-programacao.md)
 
+### Produtividade
+
+- [Redes Neurais](produtividade/redes-neurais.md)
+
+- [Camadas de Neurônios em Redes Neurais](produtividade/camadas-neuronios.md)
+
+- [Questões Éticas na Inteligência Artificial](produtividade/etica-IA.md)
+
+- [IA Responsável](produtividade/IA-responsavel.md)
+
+- [Desafio Explorando os Recursos de IA Generativa com Copilot e OpenAI](desafio_final/readme.md)
+
 
 
 
